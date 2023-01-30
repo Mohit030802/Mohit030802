@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit030802" alt="mohit030802" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix clone](https://melodic-taiyaki-4e80ee.netlify.app/)
+- 🔭 I’m currently working on [Social Media Website].
 
-- 🌱 I’m currently learning **React, Cyber security**
+- 🌱 I’m currently learning **React, DevOps**
 
 - 👯 I’m looking to collaborate on [Cloud management system](https://wondrous-sherbet-941e24.netlify.app/)
 
