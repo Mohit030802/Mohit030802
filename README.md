@@ -11,18 +11,18 @@
 
 - 🌱 I’m currently learning **MERN Stack, DevOps**
 
-- 👯 I’m looking to collaborate on [Profile Builder]((https://profilebuildedeployment.vercel.app/))
+- 👯 I’m looking to collaborate on [Profile Builder](https://profilebuildedeployment.vercel.app/)
 
 - 🤝 I’m looking for help with [Voice Based News website](https://rococo-biscochitos-e51773.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bright-ganache-eb99ae.netlify.app/)
 
 
-- 💬 Ask me about **React, Html, CSS, Tailwind, Javascript, Figma,MongoDB, Nodejs**
+- 💬 Ask me about **React, Html, CSS, Tailwind, Javascript, Figma, MongoDB, Nodejs**
 
 - 📫 How to reach me **mohitom2002@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/19QunwKU1TqzMHhG2Wsnz06Muq70p6di7/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19QunwKU1TqzMHhG2Wsnz06Muq70p6di7/view?usp=drive_link)
 
 - ⚡ Fun fact **I am interested in learning new facts, new technology. I always try to gain more knowledge. Other than development I also have an interest in History and Political Studies.**
 
