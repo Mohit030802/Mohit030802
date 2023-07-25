@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mohitom2002@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/1urkRg25ueboeK3UzLmItQ-GPQ1WQvkp5/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1urkRg25ueboeK3UzLmItQ-GPQ1WQvkp5/view?usp=drive_link)
 
 - ⚡ Fun fact **I am interested in learning new facts, new technology. I always try to gain more knowledge. Other than development I also have an interest in History and Political Studies.**
 
