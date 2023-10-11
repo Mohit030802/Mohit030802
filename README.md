@@ -25,8 +25,9 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1urkRg25ueboeK3UzLmItQ-GPQ1WQvkp5/view?usp=drive_link)
 
 - ⚡ Fun fact **I am interested in learning new facts, new technology. I always try to gain more knowledge. Other than development I also have an interest in History and Political Studies.**
-<h3 align="left">Hacktober 2023</h3>
+
 [![An image of @mohit030802's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohit030802)](https://holopin.io/@mohit030802)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohit kumar dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit kumar dubey" height="30" width="40" /></a>
