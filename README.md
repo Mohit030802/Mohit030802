@@ -9,22 +9,22 @@
 
 - 🔭 I’m currently working on [Social Media Website].
 
-- 🌱 I’m currently learning **MERN Stack, DevOps**
+- 🌱 I’m currently learning **MERN Stack, NextJs**
 
-- 👯 I’m looking to collaborate on [Profile Builder](https://profilebuildedeployment.vercel.app/)
+- 👯 I’m looking to collaborate on [Social Sphere](https://github.com/Mohit030802/SociaSphere)
 
-- 🤝 I’m looking for help with [Voice Based News website](https://rococo-biscochitos-e51773.netlify.app/)
+- 🤝 I’m looking for help with [All-AI](https://all-ai-6cc6a.web.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bright-ganache-eb99ae.netlify.app/)
 
 
-- 💬 Ask me about **React, Html, CSS, Tailwind, Javascript, Figma, MongoDB, Nodejs**
+- 💬 Ask me about **React, HTML, CSS, Tailwind, Javascript, Figma, MongoDB, Nodejs**
 
 - 📫 How to reach me **mohitom2002@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1urkRg25ueboeK3UzLmItQ-GPQ1WQvkp5/view?usp=drive_link)
 
-- ⚡ Fun fact **I am interested in learning new facts, new technology. I always try to gain more knowledge. Other than development I also have an interest in History and Political Studies.**
+- ⚡ Fun fact **I am interested in learning new facts, and new technology. I always try to gain more knowledge. Other than development I also have an interest in History and Political Studies.**
 
 [![An image of @mohit030802's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohit030802)](https://holopin.io/@mohit030802)
 
